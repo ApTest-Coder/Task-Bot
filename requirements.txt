@@ -1,5 +1,4 @@
-pyrogram
-TgCrypto
-pymongo
-selenium
-pyotp
+kurigram==2.2.25
+pymongo==4.17.0
+selenium==4.48.0
+pyotp==2.10.0
