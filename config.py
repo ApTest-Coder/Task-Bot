@@ -1,0 +1,16 @@
+# Bot and runtime configuration. Keep real secrets out of Git.
+BOT_TOKEN = ""
+API_ID = 0
+API_HASH = ""
+OWNER_ID = 0
+OWNER_SESSION = ""
+TASK_BOT_USERNAME = ""
+MONGO_URI = ""
+MONGO_DB_NAME = "task_bot"
+LOG_CHANNEL_ID = 0
+HEADLESS = False
+FIREFOX_BINARY = ""
+GECKODRIVER_PATH = ""
+MAX_TASK_TIMEOUT = 600
+EMAIL_POLL_TIMEOUT = 60
+DEVELOPER_USERNAME = "@ApxCoder"
