@@ -1,4 +1,3 @@
-# Bot and runtime configuration. Keep real secrets out of Git.
 BOT_TOKEN = ""
 API_ID = 0
 API_HASH = ""
@@ -11,6 +10,9 @@ LOG_CHANNEL_ID = 0
 HEADLESS = False
 FIREFOX_BINARY = ""
 GECKODRIVER_PATH = ""
+UBLOCK_XPI = ""
 MAX_TASK_TIMEOUT = 600
-EMAIL_POLL_TIMEOUT = 60
+TASK_LABEL = "Create Inst (2FA)"
 DEVELOPER_USERNAME = "@ApxCoder"
+REG_URL = ""
+SELECTORS = {}
